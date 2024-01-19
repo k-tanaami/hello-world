@@ -3,3 +3,6 @@ GithubのHello World演習を実施します。(https://docs.github.com/ja/get-s
 
 # self introduction
 私の名前はk-tanaamiです。
+
+# mvn_test
+mavenでHelloWorldを作成します。
